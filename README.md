@@ -126,7 +126,7 @@ One person in the team, preferably the leader, will have to create the repositor
 
 5. Select **Manage access**.
 
- Yes, this is inline html. The source image is too vertical to be displayed with 100% width. 
+ Yes, this is inline html. The source image is too vertical to be displayed with 100% width.
 <img src="https://docs.github.com/assets/images/help/repository/manage-access-tab.png" style="width: 30%"></img>
 
 6. Click **Invite a collaborator**.
