@@ -2,12 +2,12 @@
 
 
 ###Team Members:
-- **@Burned**
-- **@Breno Cabral**
-- **@jumpyapple**
-- **@KnoxZingVille**
-- **@zachkaupp**
-- **@Zix**
+- **Burned**
+- **Breno Cabral**
+- **jumpyapple**
+- **KnoxZingVille**
+- **zachkaupp**
+- **Zix**
 
 
 
