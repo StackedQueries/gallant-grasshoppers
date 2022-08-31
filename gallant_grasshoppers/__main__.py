@@ -53,7 +53,7 @@ def main() -> None:
     try:
         with term.fullscreen(), term.cbreak(), term.hidden_cursor():
             while not c.get_prop("is_exiting"):
-                key_press = term.inkey(timeout=.5)
+                key_press = term.inkey(timeout=.05)
                 if key_press == " " and c.get_prop("current_page") == GamePage:
                     state.makeBox()
                     continue
